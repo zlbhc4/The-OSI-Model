@@ -30,7 +30,7 @@ Click a layer to begin:
 ---
 ## How to Navigate this Tutorial
 - Start at layer 1 and move through the layers in order, or choose any layer from the list to jump right to it.
-- Navigate through individual pages by using the **Forward** and **Back** links
+- Navigate through individual pages by using the **Next** and **Back** links
 
 ## Expected Takeaways
 - Learn the purpose of each OSI layer
