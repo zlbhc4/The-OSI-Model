@@ -27,6 +27,6 @@ Layer 1 handles the **actual transmission medium**. It does not understand frame
 
 ---
 
-### 🔗 Navigation
+### Navigation
 **← Back to [README](README.md)**  
 **→ Next: [Layer 2 — Data Link](layer2-data-link.md)**
