@@ -18,7 +18,7 @@ This tutorial is designed for:
 - Beginners that need a simplified explanation than most sources provide
 - Anyone with minimal prior knowledge about networks and their communication.
 
-No technical background is required to understand the content in this tutorial. 
+Light technical background is preferred to understand the content in this tutorial. 
 
 ---
 
