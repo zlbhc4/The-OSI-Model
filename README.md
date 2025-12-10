@@ -1,10 +1,14 @@
 # The-OSI-Model
 **Author:** Zoey Benedict
 **Course:** Infotc-1600
+
 ---
+
 ## Summary
 This is a tutorial that introduces the **Open Systems Interconnection (OSI) Model**, which is a seven-layer framework that is used to help understand how data can travel across computer networks. The goal of this tutorial is to provide a basic understanding of these layers and how they interact, as well as give examples of real devices and uses for this model.
+
 ---
+
 ## Target Audience
 This tutorial is designed for:
 
@@ -27,15 +31,21 @@ Click a layer to begin:
 5. [Layer 5 — Session](layer5-session.md)
 6. [Layer 6 — Presentation](layer6-presentation.md)
 7. [Layer 7 — Application](layer7-application.md)
+   
 ---
+
 ## How to Navigate this Tutorial
 - Start at layer 1 and move through the layers in order, or choose any layer from the list to jump right to it.
 - Navigate through individual pages by using the **Next** and **Back** links
+
+---
 
 ## Expected Takeaways
 - Learn the purpose of each OSI layer
 - Learn some devides and protocols of each layer
 - Learn how data moves between devices
 - How the OSI model compares to the TCP/IP model
+
+---
 
 Continue to **[Layer 1 → Physical Layer](layer1-physical.md)**.
